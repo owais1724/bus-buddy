@@ -44,9 +44,6 @@ Bus Buddy is an AI-powered chatbot application designed to help commuters in Sur
    cd Bus-Buddy
 Launch Jupyter Notebooks:
 
-bash
-Copy
-Edit
 jupyter notebook
 Open and run fare.ipynb or route.ipynb to test features.
 
